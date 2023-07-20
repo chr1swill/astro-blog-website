@@ -3,20 +3,11 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    // markdown: {
-    //     syntaxHighlight: 'prism',
-    //     remarkPlugins: [remarkPlugin1],
-    //     gfm: true,
-    //   },
-    //   integrations: [
-    //     mdx({
-    //       // `syntaxHighlight` inherited from Markdown
     
-    //       // Markdown `remarkPlugins` ignored,
-    //       // only `remarkPlugin2` applied.
-    //       remarkPlugins: [remarkPlugin2],
-    //       // `gfm` overridden to `false`
-    //       gfm: false,
-    //     }),
-    //   ],
+    routes: [
+        { path: '/', component: './src/pages/index.astro' },
+        { path: '/blog/*', component: './src/pages/blog/[post].md' },
+        // Add more routes as needed
+      ],
+
     });

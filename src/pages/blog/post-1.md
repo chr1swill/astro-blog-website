@@ -1,12 +1,12 @@
 ---
 layout: 'scr/layouts/Layout.astro'
 title: 'How to get in shape for the least amount of money: Getting jacked on a budget'
-author: ' Mr. Williams';
-date: '05.10.2024';
-description: 'Getting in shape can be a real hassle, especially when you have no clue what you are doing. No one wants to spend all their time figuring out which method is worth it. That is why I put thisarticle together to help find the best way to get strong without thinning your pockets in the process.';
+author: ' Mr. Williams'
+date: '05.10.2024'
+description: 'Getting in shape can be a real hassle, especially when you have no clue what you are doing. No one wants to spend all their time figuring out which method is worth it. That is why I put thisarticle together to help find the best way to get strong without thinning your pockets in the process.'
 image: '/src/assets/man-lacing-shoes-3097x1936.jpg';
-imageALT: 'man on the side of the street lacing up his bright colored running shoes';
-imageSrcset: ' /src/assets/man-lacing-shoes-640x400.webp 640w, /src/assets/man-lacing-shoes-640x400.jpg 640w, /src/assets/man-lacing-shoes-1920x1200.webp 1920w, /src/assets/man-lacing-shoes-1920x1200.webp 1920w, /src/assets/man-lacing-shoes-2400x1500.webp 2400w, /src/assets/man-lacing-shoes-2400x1500.jpg 2400w, /src/assets/man-lacing-shoes-3097x1936.webp 3097w, /src/assets/man-lacing-shoes-3097x1936.jpg 3097w';
+imageALT: 'man on the side of the street lacing up his bright colored running shoes'
+imageSrcset: ' /src/assets/man-lacing-shoes-640x400.webp 640w, /src/assets/man-lacing-shoes-640x400.jpg 640w, /src/assets/man-lacing-shoes-1920x1200.webp 1920w, /src/assets/man-lacing-shoes-1920x1200.webp 1920w, /src/assets/man-lacing-shoes-2400x1500.webp 2400w, /src/assets/man-lacing-shoes-2400x1500.jpg 2400w, /src/assets/man-lacing-shoes-3097x1936.webp 3097w, /src/assets/man-lacing-shoes-3097x1936.jpg 3097w'
 ---
 
 Let's face it, having your own trainer to help keep you motivated
